@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Name=Deluge
+Name[ru]=Deluge
+GenericName=BitTorrent Client
+GenericName[ru]=BitTorrent клиент
+X-GNOME-FullName=Deluge BitTorrent Client
+X-GNOME-FullName[ru]=Deluge
+Comment=Download and share files over BitTorrent
+Comment[ru]=Загружайте и обменивайтесь файлами в сети BitTorrent
+TryExec=deluge-gtk
+Exec=deluge-gtk %U
+Icon=deluge
+Terminal=false
+Type=Application
+Categories=FileTransfer;P2P;GTK;Network;
+StartupWMClass=Deluge
+StartupNotify=true
+MimeType=application/x-bittorrent;x-scheme-handler/magnet;
+NoDisplay=false
+Path=

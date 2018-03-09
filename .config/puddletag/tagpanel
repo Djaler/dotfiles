@@ -1,0 +1,39 @@
+{
+  "1": {
+    "titles": [
+      "&Title"
+    ], 
+    "tags": [
+      "title"
+    ]
+  }, 
+  "0": {
+    "titles": [
+      "&Artist"
+    ], 
+    "tags": [
+      "artist"
+    ]
+  }, 
+  "3": {
+    "titles": [
+      "&Year", 
+      "&Genre"
+    ], 
+    "tags": [
+      "year", 
+      "genre"
+    ]
+  }, 
+  "2": {
+    "titles": [
+      "Al&bum"
+    ], 
+    "tags": [
+      "album"
+    ]
+  }, 
+  "panel": {
+    "numrows": "4"
+  }
+}

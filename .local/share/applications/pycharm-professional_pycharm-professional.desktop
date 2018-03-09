@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=PyCharm Professional Edition
+Icon=pycharm
+Exec=sh -c "PYCHARM_PROPERTIES=~/.config/PyCharm/idea.properties PYCHARM_VM_OPTIONS=~/.config/PyCharm/pycharm64.vmoptions /snap/bin/pycharm-professional %f"
+Comment=The Drive to Develop
+Categories=IDE;Development;
+Terminal=false
+StartupWMClass=jetbrains-pycharm
+Name[ru]=PyCharm
+X-GNOME-FullName[ru]=PyCharm
+Comment[ru]=The Drive to Develop
+NoDisplay=false
+Path=

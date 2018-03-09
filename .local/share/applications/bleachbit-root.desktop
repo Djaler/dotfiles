@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=BleachBit (as root)
+Comment=Free space and maintain privacy
+Comment[ru]=Освобождение дискового пространства и обслуживание конфиденциальности
+GenericName=Unnecessary file cleaner
+GenericName[ru]=Очистка от ненужных файлов
+TryExec=su-to-root
+Exec=su-to-root -X -c bleachbit
+Icon=bleachbit
+Categories=GTK;System;
+Keywords=clean;performances;free;privacy;
+StartupNotify=true
+Name[ru]=BleachBit (as root)
+X-GNOME-FullName[ru]=BleachBit (as root)
+NoDisplay=true
+Path=
+Terminal=false

@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=SimpleScreenRecorder
+Comment=A feature-rich screen recorder that supports X11 and OpenGL
+Icon=simplescreenrecorder
+Exec=simplescreenrecorder --logfile
+Terminal=false
+Categories=Video;Recorder;Qt;AudioVideo;
+Keywords=screen recorder;screencast;live streaming;
+Name[ru]=Simple Screen Recorder
+X-GNOME-FullName[ru]=Simple Screen Recorder
+Comment[ru]=A feature-rich screen recorder that supports X11 and OpenGL
+NoDisplay=false
+Path=
+X-GNOME-UsesNotifications=false

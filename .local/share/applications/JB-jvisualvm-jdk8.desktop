@@ -1,0 +1,14 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Oracle Java 8 VisualVM
+Comment=Oracle Java 8 Monitoring & Management (VisualVM)
+Exec=/usr/lib/jvm/java-8-oracle/bin/jvisualvm
+Terminal=false
+Type=Application
+Icon=oracle_java8
+Categories=Application;System;
+Name[ru]=Oracle Java 8 VisualVM
+X-GNOME-FullName[ru]=Oracle Java 8 VisualVM
+Comment[ru]=Oracle Java 8 Monitoring & Management (VisualVM)
+NoDisplay=true
+Path=

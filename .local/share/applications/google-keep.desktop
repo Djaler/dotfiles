@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Google Keep
+Exec=/opt/google/chrome/google-chrome --profile-directory=Default --app-id=hmjkmjkepdijhoojdojkdfohbdgmmhki
+Icon=google-keep
+StartupWMClass=crx_hmjkmjkepdijhoojdojkdfohbdgmmhki
+Name[ru]=Google Keep
+X-GNOME-FullName[ru]=Google Keep
+Comment[ru]=
+NoDisplay=false
+Path=
+Categories=Network;

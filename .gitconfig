@@ -1,0 +1,9 @@
+[user]
+	name = Kirill Romanov
+	email = djaler1@gmail.com
+[push]
+	default = simple
+[core]
+	autocrlf = input
+[alias]
+	uncommit = reset HEAD^

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Exec=/usr/lib/jvm/java-8-oracle/bin/jmc
+Icon=oracle_java8
+Name=Oracle Java 8 Mission Control
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Java;Development;
+Name[ru]=Oracle Java 8 Mission Control
+X-GNOME-FullName[ru]=Oracle Java 8 Mission Control
+Comment[ru]=
+NoDisplay=true
+Path=

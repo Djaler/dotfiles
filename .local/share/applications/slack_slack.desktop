@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Slack
+Comment=Slack Desktop
+GenericName=Slack Client for Linux
+Exec=env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/slack_slack.desktop /snap/bin/slack %U
+Icon=slack
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;InstantMessaging;Network;
+MimeType=x-scheme-handler/slack;
+Name[ru]=Slack
+X-GNOME-FullName[ru]=Slack
+Comment[ru]=Slack Desktop
+NoDisplay=false
+Path=
+Terminal=false
+X-GNOME-UsesNotifications=false

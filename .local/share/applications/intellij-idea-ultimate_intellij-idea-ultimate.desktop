@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=IntelliJ IDEA Ultimate Edition
+Icon=intellij
+Exec=sh -c "IDEA_PROPERTIES=/home/djaler/.config/IntelliJIdea/idea.properties IDEA_VM_OPTIONS=/home/djaler/.config/IntelliJIdea/idea64.vmoptions /snap/bin/intellij-idea-ultimate %f"
+Comment=The Drive to Develop
+Categories=IDE;Development;
+Terminal=false
+StartupWMClass=jetbrains-idea
+Name[ru]=IntelliJ IDEA
+X-GNOME-FullName[ru]=IntelliJ IDEA
+Comment[ru]=The Drive to Develop
+NoDisplay=false
+Path=
