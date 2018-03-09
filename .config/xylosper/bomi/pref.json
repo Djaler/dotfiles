@@ -1,6 +1,6 @@
 {
     "app_fixed_font": "Cousine,9,-1,2,50,0,0,0,0,0",
-    "app_font": "Open Sans,9,-1,5,50,0,0,0,0,0",
+    "app_font": "Arimo,9,-1,5,50,0,0,0,0,0",
     "app_locale": {
     },
     "app_log_option": {
@@ -14,7 +14,7 @@
         },
         "lines": 0
     },
-    "app_style": "gtk+",
+    "app_style": "gtk2",
     "app_unique": true,
     "app_use_local_config": false,
     "audio_autoload": {
@@ -34,7 +34,7 @@
         "chunk_sec": 0.5,
         "max": 10,
         "smoothing": 15,
-        "target": 0.94999999999999996,
+        "target": 0.95,
         "use_rms": false
     },
     "audio_priority": [
@@ -786,7 +786,7 @@
     "controls_theme": {
         "previewMaximumSize": 200,
         "previewMinimumSize": 100,
-        "previewSize": 0.20000000000000001,
+        "previewSize": 0.2,
         "showKeyframeForPreview": true,
         "showLocationsInPlaylist": true,
         "showMediaTitleForLocalFilesInHistory": false,
@@ -954,27 +954,27 @@
                 "color": "#7f000000",
                 "enabled": false,
                 "padding": {
-                    "x": 0.29999999999999999,
-                    "y": 0.10000000000000001
+                    "x": 0.3,
+                    "y": 0.1
                 }
             },
             "font": {
                 "color": "#ffffffff",
                 "qfont": "DejaVu Sans,-1,20,5,50,0,0,0,0,0",
-                "size": 0.070000000000000007
+                "size": 0.07
             },
             "outline": {
                 "color": "#ff000000",
                 "enabled": true,
-                "width": 0.050000000000000003
+                "width": 0.05
             },
             "shadow": {
                 "blur": true,
                 "color": "#7f000000",
                 "enabled": true,
                 "offset": {
-                    "x": 0.10000000000000001,
-                    "y": 0.10000000000000001
+                    "x": 0.1,
+                    "y": 0.1
                 }
             },
             "spacing": {
@@ -984,7 +984,7 @@
         },
         "timeline": {
             "duration": 2500,
-            "margin": 0.10000000000000001,
+            "margin": 0.1,
             "position": "Center",
             "show_on_seeking": true
         }
@@ -1049,7 +1049,7 @@
     "steps": {
         "amp_pct": 10,
         "aspect_ratio": 0.001,
-        "audio_sync_sec": 0.20000000000000001,
+        "audio_sync_sec": 0.2,
         "color_pct": 1,
         "seek1_sec": 5,
         "seek2_sec": 30,
@@ -1057,10 +1057,10 @@
         "speed_pct": 10,
         "sub_pos_pct": 1,
         "sub_scale_pct": 1,
-        "sub_sync_sec": 0.20000000000000001,
-        "video_offset_pct": 0.10000000000000001,
+        "sub_sync_sec": 0.2,
+        "video_offset_pct": 0.1,
         "volume_pct": 2,
-        "zoom_pct": 0.10000000000000001
+        "zoom_pct": 0.1
     },
     "sub_autoload_v2": {
         "enabled": true,
@@ -1082,27 +1082,27 @@
             "color": "#7f000000",
             "enabled": false,
             "padding": {
-                "x": 0.29999999999999999,
-                "y": 0.10000000000000001
+                "x": 0.3,
+                "y": 0.1
             }
         },
         "font": {
             "color": "#ffffffff",
             "qfont": "DejaVu Sans,-1,20,5,50,0,0,0,0,0",
-            "size": 0.10000000000000001
+            "size": 0.1
         },
         "outline": {
             "color": "#ff000000",
             "enabled": true,
-            "width": 0.050000000000000003
+            "width": 0.05
         },
         "shadow": {
             "blur": true,
             "color": "#7f000000",
             "enabled": true,
             "offset": {
-                "x": 0.10000000000000001,
-                "y": 0.10000000000000001
+                "x": 0.1,
+                "y": 0.1
             }
         },
         "spacing": {
@@ -1115,7 +1115,7 @@
     "window_sizes": [
         {
             "display_based": true,
-            "rate": 0.14999999999999999
+            "rate": 0.15
         },
         {
             "display_based": true,
