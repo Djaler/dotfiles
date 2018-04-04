@@ -51,9 +51,6 @@ eval "$(pyenv virtualenv-init -)"
 bindkey '^H' backward-kill-word
 
 ### ALIASES ###
-alias nvidia='sudo prime-select nvidia && sudo service lightdm restart'
-alias intel='sudo prime-select intel && sudo service lightdm restart'
-
 alias please='sudo $(fc -ln -1)'
 
 alias root='sudo -s'
