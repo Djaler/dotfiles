@@ -4,7 +4,7 @@ Type=Application
 Name=Sublime Text
 GenericName=Text Editor
 Comment=Sophisticated text editor for code, markup and prose
-Exec=env BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/sublime-text_subl.desktop /snap/bin/sublime-text.subl %U
+Exec=/snap/bin/sublime-text.subl %U
 Terminal=false
 MimeType=text/plain;
 Icon=sublime-text

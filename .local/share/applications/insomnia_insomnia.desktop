@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Insomnia
+Comment=Debug APIs like a human, not a robot
+Exec=/snap/bin/insomnia
+Terminal=false
+Type=Application
+Icon=insomnia
+Categories=Development;
