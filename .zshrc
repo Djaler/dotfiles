@@ -40,6 +40,7 @@ fi
 zstyle ':completion:*:processes-names' command 'NOCOLORS=1 ps xho command|sed "s/://g"'
 
 unsetopt correct # Disable commands autocorrection
+unsetopt no_match
 
 DEFAULT_USER=`whoami`
 SELECTED_EDITOR="/bin/nano"
