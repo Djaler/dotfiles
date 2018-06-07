@@ -11,12 +11,3 @@ Icon=sublime-text
 Categories=TextEditor;Development;
 StartupNotify=true
 Actions=Window;Document;
-
-[Desktop Action Window]
-Name=New Window
-OnlyShowIn=Unity;
-
-[Desktop Action Document]
-Name=New File
-OnlyShowIn=Unity;
-
