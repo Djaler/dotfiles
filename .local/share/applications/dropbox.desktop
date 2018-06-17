@@ -9,3 +9,4 @@ Icon=dropbox
 Categories=Network;FileTransfer;
 StartupNotify=false
 NoDisplay=true
+X-GNOME-UsesNotifications=true

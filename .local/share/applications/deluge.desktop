@@ -19,3 +19,4 @@ StartupNotify=true
 MimeType=application/x-bittorrent;x-scheme-handler/magnet;
 NoDisplay=false
 Path=
+X-GNOME-UsesNotifications=true

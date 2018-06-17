@@ -181,3 +181,4 @@ StartupWMClass=Deluge
 StartupNotify=true
 MimeType=application/x-bittorrent;x-scheme-handler/magnet;
 X-GNOME-Autostart-enabled=true
+X-GNOME-UsesNotifications=true
