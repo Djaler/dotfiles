@@ -45,10 +45,6 @@ unsetopt no_match
 DEFAULT_USER=`whoami`
 SELECTED_EDITOR="/bin/nano"
 
-export PATH="/home/djaler/.pyenv/bin:$PATH"
-eval "$(pyenv init -)"
-eval "$(pyenv virtualenv-init -)"
-
 bindkey '^H' backward-kill-word
 
 ### ALIASES ###
