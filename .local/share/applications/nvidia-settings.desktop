@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=NVIDIA X Server Settings
+Comment=Configure NVIDIA X Server Settings
+Exec=/usr/bin/nvidia-settings
+Icon=nvidia-settings
+Categories=Settings;System;
+Name[ru]=NVIDIA X Server Settings
+X-GNOME-FullName[ru]=NVIDIA X Server Settings
+Comment[ru]=Configure NVIDIA X Server Settings
+NoDisplay=true
+Path=
+Terminal=false
+X-GNOME-UsesNotifications=false
