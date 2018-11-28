@@ -9,6 +9,7 @@ source ~/.zgen/zgen.zsh
 if ! zgen saved; then
 	### PREZTO CONFIGS ###
     zgen prezto "*" color 'yes'
+    zgen prezto "module:utility" safe-ops 'no'
 
     zgen prezto terminal auto-title 'yes'
     zgen prezto terminal:window-title format '%n@%m: %s'
