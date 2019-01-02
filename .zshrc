@@ -48,6 +48,10 @@ SELECTED_EDITOR="/bin/nano"
 
 bindkey '^H' backward-kill-word
 
+export PATH="/home/djaler/.pyenv/bin:$PATH"
+eval "$(pyenv init -)"
+eval "$(pyenv virtualenv-init -)"
+
 ### ALIASES ###
 alias please='sudo $(fc -ln -1)'
 
